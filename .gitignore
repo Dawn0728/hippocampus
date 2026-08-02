@@ -1,0 +1,10 @@
+# Operit 平台配置（不纳入版本控制）
+.operit/
+
+# 自动备份目录
+.backup/
+
+# 临时文件
+*.tmp
+*.swp
+.DS_Store
