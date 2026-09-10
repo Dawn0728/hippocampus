@@ -2,7 +2,7 @@
 
 ## 结论
 - **Token 一直存在，鱼鱼 2026-08-05 给过**，躺在 `/sdcard/Download/Operit/operit_log_20260805_235124.txt`（第14616行附近）
-- 值：ghp_REDACTED
+- 值：[GITHUB_TOKEN_REDACTED]
 - 2026-08-16 01:3x 验证：HTTP 200，登录 Dawn0728（id 311046019），**仍然有效**
 - 仓库：Dawn0728/hippocampus（公开，海马体）、Dawn0728/xinchao-dynamic-mind（公开）
 - GitHub 用户名 Dawn0728（当时 Basic Auth 尝试过 Dawn0728 / [REDACTED_PASSWORD]）
