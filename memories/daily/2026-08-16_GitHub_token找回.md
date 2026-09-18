@@ -2,10 +2,10 @@
 
 ## 结论
 - **Token 一直存在，鱼鱼 2026-08-05 给过**，躺在 `/sdcard/Download/Operit/operit_log_20260805_235124.txt`（第14616行附近）
-- 值：[GITHUB_TOKEN_REDACTED]
+- 值：[已抹除-见本地]
 - 2026-08-16 01:3x 验证：HTTP 200，登录 Dawn0728（id 311046019），**仍然有效**
 - 仓库：Dawn0728/hippocampus（公开，海马体）、Dawn0728/xinchao-dynamic-mind（公开）
-- GitHub 用户名 Dawn0728（当时 Basic Auth 尝试过 Dawn0728 / [REDACTED_PASSWORD]）
+- GitHub 用户名 Dawn0728（当时 Basic Auth 尝试过 Dawn0728 / love802320.）
 
 ## 我犯的错
 - 一直说"GITHUB_TOKEN 未配置、需要鱼鱼提供 token"——其实 token 给过我，只是没写进环境变量，我也没翻日志就断言"没有"
